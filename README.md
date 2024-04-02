@@ -14,10 +14,10 @@ Implementing on Website: To implement the landing page on your website, you'll n
 
 ## Files Included
 `scooty.fig`: Figma design file containing the landing page layout and elements.<br>
-`preview.png`: Screenshot of the landing page for preview.
+`Preview.png`: Screenshot of the landing page for preview.
 
 ## Preview
-![preview]()
+![preview](https://github.com/SANJAYSS-SRM-26/Scooty-Landing-Page-Figma/blob/main/Preview%20(7).png)
 
 ## Feedback:
 This is only for Learning Purpose<br>
